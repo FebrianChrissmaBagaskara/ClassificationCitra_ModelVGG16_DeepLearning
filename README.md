@@ -6,7 +6,7 @@ Nama  : Febrian Chrissma Bagaskara
 
 NIM   : F55120059
 
-Kelas : B
+Kelas : A
 
 -------------------------------------------------
 
